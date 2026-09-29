@@ -14,6 +14,7 @@
 [幾何學]:https://share.gemini.google/mZXr8HI2myUE
 [微積分]:https://share.gemini.google/bvKY1k1nNKde
 [機率統計]:https://share.gemini.google/oDXsUMg2mpgI
+[線性代數]:https://share.gemini.google/p7h4qU8p0Pmt
 [傅立葉轉換]:https://share.gemini.google/R4YvvAMBfMTG
 [微分方程]:https://share.gemini.google/hvCkfqcemaVE
 [非歐幾何]:https://share.gemini.google/hCNadgF0ITim
